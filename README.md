@@ -8,7 +8,6 @@ I am an IT professional with 5 years of experience in software programming for d
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [brendon.geronimo@gmail.com](mailto:brendon.geronimo@gmail.com)
-* 🧠  I'm learning NextJS
 
 ### Skills
 
@@ -28,3 +27,7 @@ I am an IT professional with 5 years of experience in software programming for d
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bgeromoJs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/brendon.geronimo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brendon-geronimo-de-lima-24b45011a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/bgeromoJs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgeromoJs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
