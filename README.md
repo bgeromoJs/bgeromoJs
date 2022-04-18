@@ -4,7 +4,7 @@ Hi 👋 My name is Brendon
 Front End developer
 -------------------
 
-I am an IT professional with 5 years of experience in software programming for different types of industries with good knowledge of Front End.
+Sharing some of my studies with you.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [brendon.geronimo@gmail.com](mailto:brendon.geronimo@gmail.com)
